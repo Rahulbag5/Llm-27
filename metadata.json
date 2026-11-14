@@ -1,0 +1,6 @@
+{
+  "name": "CampusGate Access Point Manager",
+  "description": "Offline-first access point management and flexible student and teacher access directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
